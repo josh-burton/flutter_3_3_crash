@@ -1,0 +1,1 @@
+To reproduce crash, run in profile mode and click the 'Start' button
